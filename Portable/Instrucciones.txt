@@ -1,0 +1,5 @@
+Copiar los archivos:
+	"COMCTL32.OCX"
+	"epanet2.dll"
+	"shapelib"
+en la siguiente ruta:	C:\Windows\System32
